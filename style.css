@@ -1,0 +1,10 @@
+#slideshow {
+    width: 70%;
+    margin: auto;
+    overflow: hidden;
+}
+
+#slideshow-image {
+    width: 100%;
+    transition: opacity 0.5s ease;
+}
